@@ -17,4 +17,4 @@ If you have any questions, suggestions, or feedback, you can reach out to the pr
 - [Ahmet Berktas](https://www.linkedin.com/in/ahmetberktas/)
 
 ### Demo Link
-[Netflix Homepage - deploy]()
+[Netflix Homepage - deploy](https://netflix-homepage-udemig.netlify.app/)
